@@ -1,4 +1,4 @@
-name: "miweb"
+name: "CursoRccpp"
 navbar:
   title: "Curso R CCPP 2021"
   left:
@@ -10,3 +10,8 @@ navbar:
         href: "borrar.html"
       - text: "Ejercicios segunda sesión"
         href: "regresion_1.html"
+        
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
