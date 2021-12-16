@@ -75,10 +75,10 @@ A continuación pasamos a leer los datos. En este caso se trata de un ```.csv```
 ```{r}
 
 # para leer en local
-file.exists("./datos/CD_hdi_corr_sc.csv")
+file.exists("C:/Users/javro/Documents/probando2/datos/CD_hdi_corr_sc.csv")
 
 # función de R base
-datos <- read.csv("./datos/CD_hdi_corr_sc.csv")
+datos <- read.csv("C:/Users/javro/Documents/probando2/datos/CD_hdi_corr_sc.csv")
 
 ```
 
